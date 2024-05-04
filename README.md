@@ -18,3 +18,7 @@ Thank you!!
 <H2>Day 3</H2>
 
 On day 3 I learned about various datatypes available in Python such as int, string, complex, binary, and boolean 
+
+<H3>Day 4</H3>
+
+Performed various operations on the list and solved Problems
