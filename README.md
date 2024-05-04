@@ -22,3 +22,7 @@ On day 3 I learned about various datatypes available in Python such as int, stri
 <H2>Day 4</H2>
 
 Performed various operations on the list and solved Problems
+
+<H2>Day 5</H2>
+
+Solved the problems on string
